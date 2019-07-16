@@ -19,7 +19,41 @@
 			<p>the target audience is to include, wedding planners, party planners, dessert lovers</p>
 			<br>
 			<h3>Goal</h3>
-			<p></p>
+			<p>The primary goal if this site is to showcase the product M is for Macaron provide and to increase </p>
+			<p> their sales. the secondary goal is to showcase my work as a web developer.</p>
+		</div>
+		<div>
+			<h2>Persona</h2>
+			<h3>Penelope Planner</h3>
+			<img src="penelope-planner.jpg" alt="Penelope Planner">
+			<br>
+			<h4>Likes</h4>
+			<div>
+			<ul>
+				<li>Trendy coffee shops</li>
+				<li>Planning Parties for Friends</li>
+				<li>introducing people to new things</li>
+				<li>Aesthetics</li>
+				<li>Expensive bags</li>
+				<li>Fashion</li>
+				<li>Dip nails</li>
+				<li>Face masks</li>
+			</div>
+			<h4>Dislikes</h4>
+			<div>
+			<ul>
+				<li>Tacky</li>
+				<li>Cheap</li>
+				<li>Careless work</li>
+				<li></li>
+			</ul>
+			</div>
+			<br>
+			<h4>Attitudes a</h4>
+
+
+
+			</ul>
 		</div>
 	</body>
 </html>
